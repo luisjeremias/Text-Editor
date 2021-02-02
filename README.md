@@ -10,6 +10,6 @@ i make using javacript, css3, html
 
 open your cmd and type:
 
-###git clone https://github.com/luisjeremias/Text-Editor
+### git clone https://github.com/luisjeremias/Text-Editor
 
 
